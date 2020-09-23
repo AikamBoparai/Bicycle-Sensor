@@ -29,4 +29,7 @@ A project designed to increase the safety of bicycle riders when near vehicles o
   - 0-20cm --> quadruple beep
   - 20-60cm --> double beep
   - greater than 60cm --> no beep
+  
+  ## Prototype Stages
+  
 
