@@ -13,7 +13,7 @@ A project designed to increase the safety of bicycle riders when near vehicles o
 
 -Buzzer (https://www.sparkfun.com/products/10293)
 
-##Software
+## Software
 
 -The program begins by supplying a trigger signal to the ultrasonic sensors. The trigger tells the ultrasonic sensor to pickup a reading. The sensors will then return an echo wavelength which must be decoded to get an actual distance (currently in centimeters). 
 
