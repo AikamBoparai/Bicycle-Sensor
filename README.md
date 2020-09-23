@@ -15,7 +15,7 @@ A project designed to increase the safety of bicycle riders when near vehicles o
 
 ## Software
 
--The program begins by supplying a trigger signal to the ultrasonic sensors. The trigger tells the ultrasonic sensor to pickup a reading. The sensors will then return an echo wavelength which must be decoded to get an actual distance (currently in centimeters). 
+-The program begins by supplying a trigger signal to the ultrasonic sensors. The trigger tells the ultrasonic sensor to activate. The sensors will then return an echo wavelength which must be decoded to get an actual distance (currently in centimeters). 
 
 -However because of noise from the sensors we must send multiple triggers to pickup multiple echos. Currently the system reads in 10 echos and sorts these values using the quicksort algorithm. Then the median of these values is taken and used.
 
