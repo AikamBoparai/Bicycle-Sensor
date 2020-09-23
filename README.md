@@ -31,5 +31,13 @@ A project designed to increase the safety of bicycle riders when near vehicles o
   - greater than 60cm --> no beep
   
   ## Prototype Stages
+### Stage 1
+  ![Stage 1](https://github.com/AikamBoparai/Bicycle-Sensor-Prototype/blob/master/images/Stage1.png)
+
+### Stage 2 (Physical Component Board)  
+  ![Stage 2](https://github.com/AikamBoparai/Bicycle-Sensor-Prototype/blob/master/images/Stage2.png)
+
+### Stage 3 (Prototype)  
+  ![Final Stage](https://github.com/AikamBoparai/Bicycle-Sensor-Prototype/blob/master/images/FinalStage.jpeg)
   
 
